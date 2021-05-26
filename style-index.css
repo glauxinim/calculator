@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+.balon{
+    background-color: white;
+    margin: 30%;
+    padding: 20px 20px 50px 20px;
+    text-align: center;
+    border-radius: 100%;
+}
+
+
+a:link {
+    color:rgb(255, 0, 140);
+    background-color: transparent;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+  a:visited{
+    color:rgb(255, 0, 140);
+    background-color: transparent;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  
+  a:hover {
+    color: rgb(255, 0, 140);
+    text-decoration: underline;
+  }
+
+h1{
+    color: rgb(255, 0, 140);
+    font-family: 'Merienda One', cursive;
+}
+
+.legend{
+    color: black;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.tentativa {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    margin: 50% 20% 5px 20%;
+    text-align: center;
+    font-family: 'Merienda One', cursive;
+}
+
+.tentativa2 {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    margin: 5px 20% 5px 20%;
+    text-align: center;
+    font-family: 'Merienda One', cursive;
+}
