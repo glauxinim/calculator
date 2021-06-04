@@ -2,7 +2,7 @@ function addText() {
   if (document.getElementById("textInput").value !== "") {
     let textInputValue = document.getElementById("textInput").value;
 
-    let newTodoItem = document.createElement("li");
+    let newTodoItem = document.createElement("p");
     newTodoItem.innerHTML = textInputValue;
     document.getElementById("list").appendChild(newTodoItem);
 
