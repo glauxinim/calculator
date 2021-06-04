@@ -60,10 +60,6 @@ h3 {
   text-align: center;
 }
 
-.menu {
-  display: flex;
-  list-style: none;
-}
 .header {
   display: flex;
   align-items: center;
@@ -71,5 +67,23 @@ h3 {
   justify-content: center;
   background-color: black;
   color: white;
+}
+li {
   list-style: none;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu li {
+  margin-left: 10px;
+}
+
+.menu li a {
+  display: block;
+  padding: 2px;
+  color: white;
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
 }
