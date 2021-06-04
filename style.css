@@ -38,11 +38,9 @@ button {
 }
 
 h3 {
-  text-align: center;
   font-family: "Courier New", Courier, monospace;
-  font-size: 16px;
-  margin-top: 60px;
-  margin-bottom: 40px;
+  font-size: 24px;
+  text-align: center;
 }
 
 .header {
